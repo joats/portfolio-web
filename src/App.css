@@ -1,0 +1,29 @@
+
+.Footer-btn {
+     text-decoration: none;
+     color: black;
+     border-bottom: solid 1px;
+     font-size: 1.2rem;
+}
+
+.Footer-btn:hover {
+     text-decoration: none;
+     color: black;
+}
+
+.App-container {
+     height: 100%;
+     width: 100%;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+     line-height: 1.8;
+     font-size: 11pt;
+}
+
+body {
+     height: 100%;
+     width: 100%;
+     font-size: 1.6rem;
+     -webkit-font-smoothing: antialiased;
+     -moz-osx-font-smoothing: grayscale;
+}
